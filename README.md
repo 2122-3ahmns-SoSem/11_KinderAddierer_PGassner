@@ -1,1 +1,1 @@
-# 11_KinderAddierer_PGassner
+# 11_KinderAddierer_PGassner Ein Kinderaddierer mit dem wir 6-10 jährigen helfen wollen, spielerisch Mathe zu lernen. Es gibt 3 Runden in der immer schwerer werdende Rechnungen gelöst werden sollen. In der ersten Runde sollen fixe Werte per richtig oder falsch Auswahl gelöst werden. Die 2. Runde beinhaltet jeweils einen Variablen Wert in der Rechnung, wobei in der 3. Runde sogar 2 Variable Werte gegeben sind. Alles wird per Eingabe oder Drag&Drop gesteuert.  
